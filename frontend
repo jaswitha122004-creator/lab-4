@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Store</title>
+</head>
+<body>
+    <header>
+        <h1>My Store</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Products</a>
+            <a href="#">Cart</a>
+            <a href="#">Login</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to My Store</h2>
+            <p>Shop your favorite products online!</p>
+        </section>
+
+        <section>
+            <h2>Featured Products</h2>
+            <article>
+                <h3>Smartphone</h3>
+                <p>Price: ₹15,000</p>
+                <button>Add to Cart</button>
+            </article>
+            <article>
+                <h3>Headphones</h3>
+                <p>Price: ₹1,000</p>
+                <button>Add to Cart</button>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Store</p>
+    </footer>
+</body>
+</html>
